@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @LInconnuYT
-- 👀 I’m interested in development
+- 👋 Hi, I’m @LInconnu
 - 🔩 I’m currently learning lua/C++ 
 
 
